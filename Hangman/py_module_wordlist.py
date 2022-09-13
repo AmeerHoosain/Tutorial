@@ -1,0 +1,1 @@
+word_list = ["deathnote", "avengers", "fastandfurious", "bigbangtheory", "theflash", "supergirl", "supernatural", "witcher"]
